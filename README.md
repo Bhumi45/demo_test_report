@@ -1,2 +1,2 @@
 # demo_test_report
-This is for demo
+This is for demo.
